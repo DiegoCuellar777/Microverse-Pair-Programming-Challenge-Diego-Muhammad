@@ -1,0 +1,15 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+#img-div {
+  background-color: tomato;
+}
+#image {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+}
